@@ -1,3 +1,5 @@
+![header](images/coursera-html-css-js.png)
+
 ## My Repository on Coursera Course: HTML, CSS and Javascript
 
 ### HTML
