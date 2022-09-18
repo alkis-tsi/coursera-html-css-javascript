@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://qph.fs.quoracdn.net/main-qimg-aea6d70e3db223864d778ee560ec62c0.webp">
+    <img width="33%" src="/images/coursera-html-css-js.png">
 </p>
 
 ## My Repository on Coursera Course: HTML, CSS and Javascript
