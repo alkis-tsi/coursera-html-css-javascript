@@ -1,4 +1,4 @@
-![header](images/coursera-html-css-js.png)
+<span style="display:block;text-align:center">![header](images/coursera-html-css-js.png)</span>
 
 ## My Repository on Coursera Course: HTML, CSS and Javascript
 
